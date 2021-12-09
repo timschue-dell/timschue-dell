@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @timschue-dell
 - 👀 I’m interested in DevOps
 - 🌱 I’m currently learning Github
-- 💞️ I’m looking to collaborate on Networking
+- 💞️ I’m looking to collaborate on Networking SONiC 
 
 
 <!---
